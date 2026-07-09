@@ -2,7 +2,7 @@
 
 <!-- Typing animation header -->
 <a href="https://github.com/CODE-NUBAID">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2E86C1&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Nubaid+UDDIN+%F0%9F%91%8B;AI+%26+Backend+Engineer;I+build+RAG+%26+Agentic+AI+Systems;Not+just+prompts+%E2%80%94+real+pipelines." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2E86C1&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+NUBAID+UDDIN+%F0%9F%91%8B;AI+%26+Backend+Engineer;I+build+RAG+%26+Agentic+AI+Systems;Not+just+prompts+%E2%80%94+real+pipelines." alt="Typing SVG" />
 </a>
 
 <br/>
