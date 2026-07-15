@@ -7,7 +7,7 @@
 <!-- Typing animation -->
 
 <a href="https://github.com/CODE-NUBAID">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Hey+there%2C+I'm+Nubaid+%F0%9F%91%8B;I+build+RAG+pipelines+%26+Agentic+AI+systems;Production+code%2C+real+evaluation%2C+zero+vibes;Measure+it+or+don't+claim+it+%F0%9F%93%88" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Hey+there%2C+I'm+NUBAID+%F0%9F%91%8B;I+build+RAG+pipelines+%26+Agentic+AI+systems;Production+code%2C+real+evaluation%2C+zero+vibes;Measure+it+or+don't+claim+it+%F0%9F%93%88" alt="Typing SVG" />
 </a>
 
 <br/><br/>
