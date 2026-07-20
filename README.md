@@ -36,7 +36,7 @@
 <td width="52%" valign="top">
 
 ```python
-class Nubaid:
+class NUBAID:
     role = "AI-Native Full-Stack Engineering Intern"
     education = "B.Tech CSE @ Jamia Hamdard (2024–2028)"
     location = "Delhi, India 🇮🇳"
