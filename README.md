@@ -50,14 +50,15 @@ class NUBAID:
         "Python",
         "Java"
         "SQL"
-        "FastAPI
+        "FastAPI"
         "Flask",
         "LangChain",
         "Agentic AI Framework"
         "Generative AI Framework"
         
     ]
-    open_to = "AI Builders, Software Engineering Roles, AI Engineering, Backend AI, GenAI roles, Agentic AI Roles"
+    open_to = "AI Builders", "Software Engineering Roles",
+    "AI Engineering", "Backend AI", "GenAI roles", "Agentic AI Roles"
 ```
 
 </td>
